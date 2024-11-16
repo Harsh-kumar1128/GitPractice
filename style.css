@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+p{
+    background-color: red;
+    font-size: 32px;
+}
+div{
+    height: 50px;
+    width: 150px;
+    background-color: aquamarine;
+    color: rgb(204, 179, 245);
+    font-size: 18px;
+}
+button{
+    height: 50px;
+    width: 70px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: green;
+    border-radius: 20px;
+    border: none;
+}
